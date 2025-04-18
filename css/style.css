@@ -1,0 +1,143 @@
+*{
+    width: 100%;
+    margin: 0px;
+}
+#Logo{
+    width: 7%;
+    margin-left: 0px;
+    margin: 1%;
+    height: 10%;   
+}
+header{
+    background-color: rgb(70, 93, 158);
+    display: flex;
+}
+header a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+}
+header button{
+    width: 20%;
+    height: 10%;
+    margin: 1%;
+    margin-top: 5%;
+    border-radius: 10px;
+    border: 3px solid rgb(102, 100, 100);
+}
+header button a:hover{
+    color: rgb(27, 36, 161);
+}
+header button a{
+    transition: .7s;
+}
+#her{
+    display: inline-flex;
+}
+#text{
+    font-size: 24px;
+    border: 7px solid rgb(70, 93, 158);
+    padding: 1%;
+    background-color: rgb(238, 201, 131);
+    margin-right: 5%;
+    width: 60%;
+}
+main{
+    padding: 1%;
+    width: 98%;
+}
+#parys{
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+#parys p{
+    font-size: 40px;
+}
+#op{
+    margin-top: 5%;
+    font-size: 36px;
+    text-align: center;
+}
+#pol{
+    border: 7px solid rgb(70, 93, 158);
+    width: 30%;
+    background-color: rgb(238, 201, 131);
+}
+#pol p{
+    font-size: 28px;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#ly p{
+    font-size: 40px;
+    margin-top: 1%;
+    text-align: center;
+}
+#lo1{
+    display: inline-flex;
+    width: 20%;
+}
+#f1{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+#f2{
+    margin-left: 95%;
+    margin-top: 3%;
+}
+#f3{
+    margin-left: 95%;
+    margin-top: 3%;
+}
+footer{
+    background-color: rgb(70, 93, 158);
+    display: flex;
+    padding: 2%;
+    width: 96%;
+    margin-top: 3%;
+}
+#Logo1{
+    width: 15%;
+}
+#tel{
+    font-size: 32px;
+    color: azure;
+    display: inline-flex;
+    margin-left: 15%;
+    width: 30%;
+    margin-top: 5%;
+}
+#tel a{
+    width: 100%;
+    transition: 0.7s;
+    color: azure;
+    text-decoration: none;
+    height: min-content;
+}
+#tel p{
+    width: 100%;
+}
+#tel a:hover{
+    color: rgb(165, 180, 255);
+}
+#poz{
+    font-size: 32px;
+    color: azure;
+    display: inline-flex;
+    margin-left: 10%;
+    width: 20%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+#poz a{
+    width: 100%;
+    transition: 0.7s;
+    color: azure;
+    text-decoration: none;
+    height: min-content;
+}
+#poz a:hover{
+    color: rgb(165, 180, 255);
+}
